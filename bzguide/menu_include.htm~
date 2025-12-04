@@ -1,0 +1,51 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Menu</title>
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'images/button30.gif',/*url*/'images/button2F.gif',/*url*/'images/button33.gif',/*url*/'images/button32.gif',/*url*/'images/button36.gif',/*url*/'images/button35.gif',/*url*/'images/button3F.gif',/*url*/'images/button3E.gif',/*url*/'images/button42.gif',/*url*/'images/button41.gif',/*url*/'images/button9C.gif',/*url*/'images/button9B.gif',/*url*/'images/buttonAE.gif',/*url*/'images/buttonAD.gif',/*url*/'images/buttonB1.gif',/*url*/'images/buttonB0.gif',/*url*/'images/buttonB4.gif',/*url*/'images/buttonB3.gif',/*url*/'images/buttonBA.gif',/*url*/'images/buttonB9.gif',/*url*/'images/buttonBD.gif',/*url*/'images/buttonBC.gif')" bgcolor="#000000">
+
+<br>
+			<a href="http://bzfiend.com/bzguide/index.php">
+			<img border="0" id="img1" src="images/button2E.gif" height="24" width="120" alt="  Introduction" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Introduction" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'images/button2F.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'images/button2E.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'images/button30.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'images/button2F.gif')"></a><br>
+			<a href="keyboard.htm">
+			<img border="0" id="img2" src="images/button31.gif" height="24" width="120" alt="  Keyboard" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'images/button32.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'images/button31.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'images/button33.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'images/button32.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Keyboard"></a><br>
+			<a href="cheats.htm">
+			<img border="0" id="img3" src="images/button34.gif" height="24" width="120" alt="  Cheats" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'images/button35.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'images/button34.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'images/button36.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'images/button35.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Cheats"></a><br>
+			<a href="structures.htm">
+			<img border="0" id="img4" src="images/button3D.gif" height="24" width="120" alt="  Structures" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'images/button3E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'images/button3D.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'images/button3F.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'images/button3E.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Structures"></a><br>
+			<a href="scion_units.htm">
+			<img border="0" id="img5" src="images/button40.gif" height="24" width="120" alt="  Units" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'images/button41.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'images/button40.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'images/button42.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'images/button41.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Units"></a><br>
+			<a href="isdf_weapons.htm">
+			<img border="0" id="img6" src="images/button9A.gif" height="24" width="120" alt="  Weaponery" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'images/button9B.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'images/button9A.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'images/button9C.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'images/button9B.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FFFF; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Weaponery"></a><br>
+			<img border="0" id="img7" src="images/buttonAC.gif" height="24" width="120" alt="  Building" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'images/buttonAD.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'images/buttonAC.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'images/buttonAE.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'images/buttonAD.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Building"><br>
+			<img border="0" id="img8" src="images/buttonAF.gif" height="24" width="120" alt="  Strategies" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'images/buttonB0.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'images/buttonAF.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'images/buttonB1.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'images/buttonB0.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Strategies"><br>
+			<img border="0" id="img9" src="images/buttonB2.gif" height="24" width="120" alt="  Resource Mode 1" onmouseover="FP_swapImg(1,0,/*id*/'img9',/*url*/'images/buttonB3.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img9',/*url*/'images/buttonB2.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img9',/*url*/'images/buttonB4.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img9',/*url*/'images/buttonB3.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-size: 8; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Resource Mode 1"><br>
+			<img border="0" id="img10" src="images/buttonB8.gif" height="24" width="120" alt="  Mission List" onmouseover="FP_swapImg(1,0,/*id*/'img10',/*url*/'images/buttonB9.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img10',/*url*/'images/buttonB8.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img10',/*url*/'images/buttonBA.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img10',/*url*/'images/buttonB9.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Mission List"><br>
+			<img border="0" id="img11" src="images/buttonBB.gif" height="24" width="120" alt="  Walk Through" onmouseover="FP_swapImg(1,0,/*id*/'img11',/*url*/'images/buttonBC.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img11',/*url*/'images/buttonBB.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img11',/*url*/'images/buttonBD.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img11',/*url*/'images/buttonBC.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Walk Through"></body></html>

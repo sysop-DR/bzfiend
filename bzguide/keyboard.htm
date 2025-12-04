@@ -1,0 +1,595 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+
+<meta http-equiv="Content-Language" content="en-us">
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>BattleZone II Strategy Guide</title>
+
+<link rel="stylesheet" type="text/css" href="../style.css">
+
+<link rel="SHORTCUT ICON" href="/raven/phpBB2/favicon.ico">
+
+<script language="JavaScript">
+
+<!--
+
+function FP_swapImg() {//v1.0
+
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+
+}
+
+
+
+function FP_preloadImgs() {//v1.0
+
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+
+}
+
+
+
+function FP_getObjectByID(id,o) {//v1.0
+
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+
+ return null;
+
+}
+
+// -->
+
+</script>
+
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#66CCFF" onload="FP_preloadImgs(/*url*/'images/button30.gif',/*url*/'images/button2F.gif',/*url*/'images/button33.gif',/*url*/'images/button32.gif',/*url*/'images/button36.gif',/*url*/'images/button35.gif',/*url*/'images/button3F.gif',/*url*/'images/button3E.gif',/*url*/'images/button42.gif',/*url*/'images/button41.gif',/*url*/'images/button9C.gif',/*url*/'images/button9B.gif',/*url*/'images/buttonAE.gif',/*url*/'images/buttonAD.gif',/*url*/'images/buttonB1.gif',/*url*/'images/buttonB0.gif',/*url*/'images/buttonB4.gif',/*url*/'images/buttonB3.gif',/*url*/'images/buttonBA.gif',/*url*/'images/buttonB9.gif',/*url*/'images/buttonBD.gif',/*url*/'images/buttonBC.gif')">
+
+<table width="100%" height="61" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-lefttop.gif'); background-repeat: no-repeat" width="69" height="61">&nbsp; </td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-midtop.gif'); background-repeat: repeat-x" height="61" bground="pod/pod-midtop.gif">&nbsp; </td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-topright.gif'); background-repeat: no-repeat" width="79" height="61">&nbsp; </td></tr></tbody></table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topleft.gif'); background-repeat: no-repeat" width="22" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topmid.gif'); background-repeat: repeat-x" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topright.gif'); background-repeat: no-repeat" width="38" height="16">
+
+<br></td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midleft.gif'); background-repeat: repeat-y" width="22" height="256">&nbsp;</td><td valign="top" height="256">
+
+<h1 style="margin-left: 20px; margin-right: 20px" align="center">BattleZone II 
+
+Strategy Guide</h1>
+
+<div align="center">
+
+	<table border="0" width="90%">
+
+		<tr>
+
+			<td rowspan="2">
+
+			<h3 align="left" style="margin-right: 20px"><i><font face="Tahoma">
+
+			Keyboard Shortcuts</font></i></h3>
+
+			<font face="Arial" size="2">
+
+
+
+			<hr align="left" width="95%" style="color: #003399; height: 4px">
+
+			<font face="arial"> 
+
+      <br>     
+
+        <TABLE border="0" width="590" cellspacing="0">
+
+          <TR> 
+
+            <TD colspan="4"><font face="arial"><b><font color="#F0E080">Camera 
+
+              Views </font></b></font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="140"><font size="2"><b>Cockpit </b></font></TD>
+
+            <TD width="155"><font size="2">Shift + F1 </font></TD>
+
+            <TD width="190"><font size="2"><b>Over Shoulder * </b></font></TD>
+
+            <TD width="198"><font size="2">Shift + F2 </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="140"><font size="2"><b>Third Person * </b></font></TD>
+
+            <TD width="155"><font size="2">Shift + F3 </font></TD>
+
+            <TD width="190"><font size="2"><b>Virtual Cockpit On/Off </b></font></TD>
+
+            <TD width="198"><font size="2">Shift + F4 </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="140"><font size="2"><b>Interface On/Off </b></font></TD>
+
+            <TD width="155"><font size="2">Shift + F5 </font></TD>
+
+            <TD width="190"><font size="2"><b>Birds Eye View </b></font></TD>
+
+            <TD width="198"><font size="2">Shift + F10 </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="140"><font size="2"><b>Zoom In </b></font></TD>
+
+            <TD width="155"><font size="2">+ </font></TD>
+
+            <TD width="190"><font size="2"><b>Zoom Out </b></font></TD>
+
+            <TD width="198"><font size="2">- </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="140"><font size="2"><b>Zoom Reset </b></font></TD>
+
+            <TD width="155"><font size="2">Insert </font></TD>
+
+            <TD width="190"></TD>
+
+            <TD width="198">&nbsp;</TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD colspan="4"><font size="2">* <i>When in Over Shoulder or Third 
+
+              Person views you can use the arrow keys to move the camera. </i></font></TD>
+
+          </TR>
+
+        </TABLE>
+
+        	<p>&nbsp;</p>
+
+			<font face="arial" size="2"> 
+
+        <TABLE border="0" width="589" cellspacing="0">
+
+          <TR> 
+
+            <TD colspan="4"><font face="arial" color="#F0E080"><b>Action Keys</b> 
+
+              </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Forward </b></font></TD>
+
+            <TD width="110"><font size="2">W </font></TD>
+
+            <TD width="200"><b><font size="2">Strafe Left </font></b></TD>
+
+            <TD width="201"><font size="2">A </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Strafe Right </b></font></TD>
+
+            <TD width="110"><font size="2">D </font></TD>
+
+            <TD width="200"><b><font size="2">Reverse </font></b></TD>
+
+            <TD width="201"><font size="2">S</font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Deploy / Morph / Jetpack </b></font></TD>
+
+            <TD width="110"><font size="2">C </font></TD>
+
+            <TD width="200"><b><font size="2">Jump </font></b></TD>
+
+            <TD width="201"><font size="2">E </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Hop Out </b></font></TD>
+
+            <TD width="110"><font size="2">H </font></TD>
+
+            <TD width="200"><b><font size="2">Bail Out </font></b></TD>
+
+            <TD width="201"><font size="2">Ctrl-B </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Target </b></font></TD>
+
+            <TD width="110"><font size="2">T </font></TD>
+
+            <TD width="200"><b><font size="2">Lights </font></b></TD>
+
+            <TD width="201"><font size="2">L </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Create Nav Beacon </b></font></TD>
+
+            <TD width="110"><font size="2">N </font></TD>
+
+            <TD width="200"><b><font size="2">Delete Nav Beacon </font></b></TD>
+
+            <TD width="201"><font size="2">Delete </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Fire </b></font></TD>
+
+            <TD width="110"><font size="2">L. Mouse </font></TD>
+
+            <TD width="200"><b><font size="2">Cycle Weapon </font></b></TD>
+
+            <TD width="201"><font size="2">R. Mouse </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Radar </b></font></TD>
+
+            <TD width="110"><font size="2">R </font></TD>
+
+            <TD width="200"><b><font size="2">Show Info </font></b></TD>
+
+            <TD width="201"><font size="2">I </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Show Objectives </b></font></TD>
+
+            <TD width="110"><font size="2">O </font></TD>
+
+            <TD width="200"><b><font size="2">Pitch Up </font></b></TD>
+
+            <TD width="201"><font face="symbol" size="2">Ý</font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Pitch Down </b></font></TD>
+
+            <TD width="110"><font face="symbol" size="2">ß</font></TD>
+
+            <TD width="200"><b><font size="2">Yaw Left </font></b></TD>
+
+            <TD width="201"><font face="symbol" size="2">Ü</font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="200"><font size="2"><b>Yaw Right </b></font></TD>
+
+            <TD width="110"><font face="symbol" size="2">Þ</font></TD>
+
+            <TD width="200"></TD>
+
+            <TD width="201">&nbsp;</TD>
+
+          </TR>
+
+        </TABLE>
+
+        	<p>&nbsp;</p>
+
+        <TABLE border="0" width="590" cellspacing="0">
+
+          <TR> 
+
+            <TD colspan="4"><font face="arial"><b><font color="#F0E080">Control 
+
+              Keys</font></b><font color="#F0E080"> </font> </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="195"><b><font size="2">Select Group </font></b></TD>
+
+            <TD width="105"><font size="2">F1-F10 </font></TD>
+
+            <TD width="195"><b><font size="2">Select Unit </font></b></TD>
+
+            <TD width="88"><font size="2">Space </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="195"><b><font size="2">Option Menu </font></b></TD>
+
+            <TD width="105"><font size="2">Esc </font></TD>
+
+            <TD width="195"><b><font size="2">List Nav Beacons </font></b></TD>
+
+            <TD width="88"><font size="2">~ </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="195"><b><font size="2">Recycler / Matriarch </font></b></TD>
+
+            <TD width="105"><font size="2">1 </font></TD>
+
+            <TD width="195"><b><font size="2">Factory / Kiln / Forge </font></b></TD>
+
+            <TD width="88"><font size="2">2</font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="195"><b><font size="2">Armory / Stronghold </font></b></TD>
+
+            <TD width="105"><font size="2">3 </font></TD>
+
+            <TD width="195"><b><font size="2">Menu Cancel </font></b></TD>
+
+            <TD width="88"><font size="2">Tab</font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="195"><b><font size="2">Multiple Unit Build Queue </font></b></TD>
+
+            <TD width="105"><font size="2">Shift </font></TD>
+
+            <TD width="195"><b><font size="2">Multiplayer Role Switch </font></b></TD>
+
+            <TD width="88"><font size="2">M </font></TD>
+
+          </TR>
+
+          <TR> 
+
+            <TD width="195"><b><font size="2">Group Combine </font></b></TD>
+
+            <TD width="105"><font size="2">Ctrl </font></TD>
+
+            <TD width="195"><b><font size="2">Multiplayer Chat </font></b></TD>
+
+            <TD width="88"><font size="2">Enter </font></TD>
+
+          </TR>
+
+        </TABLE>
+
+        </font> 
+
+        </font> <P align="center" style="margin-right: 20px">
+
+<img width="350" height="80" border="0" alt="" src="images/bzfiend-350x80-ad.gif"></font></td>
+
+			<td align="center" valign="top">
+
+			<img border="0" src="images/index.1.jpg" width="133" height="160"></td>
+
+		</tr>
+
+		<tr>
+
+			<td align="center" valign="top" height="631">
+
+			<!--webbot bot="Include" U-Include="menu_include.htm" TAG="BODY" startspan -->
+
+
+
+<br>
+
+			<a href="http://bzfiend.com/bzguide/index.html">
+
+			<img border="0" id="img1" src="images/button2E.gif" height="24" width="120" alt="  Introduction" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Introduction" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'images/button2F.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'images/button2E.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'images/button30.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'images/button2F.gif')"></a><br>
+
+			<a href="keyboard.htm">
+
+			<img border="0" id="img2" src="images/button31.gif" height="24" width="120" alt="  Keyboard" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'images/button32.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'images/button31.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'images/button33.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'images/button32.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Keyboard"></a><br>
+
+			<a href="cheats.htm">
+
+			<img border="0" id="img3" src="images/button34.gif" height="24" width="120" alt="  Cheats" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'images/button35.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'images/button34.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'images/button36.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'images/button35.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Cheats"></a><br>
+
+			<a href="structures.htm">
+
+			<img border="0" id="img4" src="images/button3D.gif" height="24" width="120" alt="  Structures" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'images/button3E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'images/button3D.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'images/button3F.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'images/button3E.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Structures"></a><br>
+
+			<a href="scion_units.htm">
+
+			<img border="0" id="img5" src="images/button40.gif" height="24" width="120" alt="  Units" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'images/button41.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'images/button40.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'images/button42.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'images/button41.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Units"></a><br>
+
+			<a href="isdf_weapons.htm">
+
+			<img border="0" id="img6" src="images/button9A.gif" height="24" width="120" alt="  Weaponery" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'images/button9B.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'images/button9A.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'images/button9C.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'images/button9B.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FFFF; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Weaponery"></a><br>
+
+			<img border="0" id="img7" src="images/buttonAC.gif" height="24" width="120" alt="  Building" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'images/buttonAD.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'images/buttonAC.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'images/buttonAE.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'images/buttonAD.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Building"><br>
+
+			<img border="0" id="img8" src="images/buttonAF.gif" height="24" width="120" alt="  Strategies" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'images/buttonB0.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'images/buttonAF.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'images/buttonB1.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'images/buttonB0.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Strategies"><br>
+
+			<img border="0" id="img9" src="images/buttonB2.gif" height="24" width="120" alt="  Resource Mode 1" onmouseover="FP_swapImg(1,0,/*id*/'img9',/*url*/'images/buttonB3.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img9',/*url*/'images/buttonB2.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img9',/*url*/'images/buttonB4.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img9',/*url*/'images/buttonB3.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-size: 8; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Resource Mode 1"><br>
+
+			<img border="0" id="img10" src="images/buttonB8.gif" height="24" width="120" alt="  Mission List" onmouseover="FP_swapImg(1,0,/*id*/'img10',/*url*/'images/buttonB9.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img10',/*url*/'images/buttonB8.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img10',/*url*/'images/buttonBA.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img10',/*url*/'images/buttonB9.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Mission List"><br>
+
+			<img border="0" id="img11" src="images/buttonBB.gif" height="24" width="120" alt="  Walk Through" onmouseover="FP_swapImg(1,0,/*id*/'img11',/*url*/'images/buttonBC.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img11',/*url*/'images/buttonBB.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img11',/*url*/'images/buttonBD.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img11',/*url*/'images/buttonBC.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Walk Through"><!--webbot bot="Include" i-checksum="47006" endspan --><p>&nbsp;</td>
+
+		</tr>
+
+		</table>
+
+</div>
+
+<p style="margin-left: 20px; margin-right: 20px;" align="center">&nbsp;</p> </td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midright.gif'); background-repeat: repeat-y" width="38" height="256">&nbsp;</td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botleft.gif'); background-repeat: no-repeat" width="22">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botmid.gif'); background-repeat: repeat-x">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botright.gif'); background-repeat: no-repeat" width="38">&nbsp;</td></tr></tbody></table>
+
+<table width="97%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-botleft.gif'); background-repeat: no-repeat" width="72" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-botmid.gif'); background-repeat: repeat-x" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-botright.gif'); background-repeat: no-repeat" width="59" height="77">&nbsp;</td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-topleft-40.gif'); background-repeat: no-repeat" width="72" height="42">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-topmid-41.gif'); background-repeat: repeat-x" height="42">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-topright-42.gif'); background-repeat: no-repeat" width="59" height="42">&nbsp;</td></tr></tbody></table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topleft.gif'); background-repeat: no-repeat" width="22" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topmid.gif'); background-repeat: repeat-x" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topright.gif'); background-repeat: no-repeat" width="38" height="16">
+
+<br></td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midleft.gif'); background-repeat: repeat-y" width="22" height="256">&nbsp;</td><td valign="top" height="256">
+
+<div align="center">
+
+        	<p>          
+        	
+                       <?php include '../menu_inc.htm'?>        	
+<br>
+<br>
+
+&nbsp;<!--webbot bot="HTMLMarkup" startspan --><script type="text/javascript"><!--
+
+google_ad_client = "pub-7177397785905654";
+
+google_alternate_color = "000000";
+
+google_ad_width = 728;
+
+google_ad_height = 90;
+
+google_ad_format = "728x90_as";
+
+google_ad_type = "text_image";
+
+google_ad_channel ="";
+
+google_color_border = "000000";
+
+google_color_bg = "000000";
+
+google_color_link = "FFFFFF";
+
+google_color_text = "CCCCCC";
+
+google_color_url = "999999";
+
+//--></script>
+
+<script type="text/javascript"
+
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script><!--webbot bot="HTMLMarkup" endspan --></div> </td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midright.gif'); background-repeat: repeat-y" width="38" height="256">&nbsp;</td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botleft.gif'); background-repeat: no-repeat" width="22">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botmid.gif'); background-repeat: repeat-x">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botright.gif'); background-repeat: no-repeat" width="38">&nbsp;</td></tr></tbody></table>
+
+<table width="97%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-maxbotleft.gif'); background-repeat: no-repeat" width="72" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-maxbotmid.gif'); background-repeat: repeat-x" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-maxbotright.gif'); background-repeat: no-repeat" width="59" height="77">&nbsp;</td></tr></tbody></table>
+
+</body>
+
+</html>
