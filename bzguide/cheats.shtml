@@ -1,0 +1,408 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+
+<meta http-equiv="Content-Language" content="en-us">
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>BattleZone II Strategy Guide</title>
+
+<link rel="stylesheet" type="text/css" href="../style.css">
+
+
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#66CCFF" onload="FP_preloadImgs(/*url*/'images/button30.gif',/*url*/'images/button2F.gif',/*url*/'images/button33.gif',/*url*/'images/button32.gif',/*url*/'images/button36.gif',/*url*/'images/button35.gif',/*url*/'images/button3F.gif',/*url*/'images/button3E.gif',/*url*/'images/button42.gif',/*url*/'images/button41.gif',/*url*/'images/button9C.gif',/*url*/'images/button9B.gif',/*url*/'images/buttonAE.gif',/*url*/'images/buttonAD.gif',/*url*/'images/buttonB1.gif',/*url*/'images/buttonB0.gif',/*url*/'images/buttonB4.gif',/*url*/'images/buttonB3.gif',/*url*/'images/buttonBA.gif',/*url*/'images/buttonB9.gif',/*url*/'images/buttonBD.gif',/*url*/'images/buttonBC.gif')">
+
+<table width="100%" height="61" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-lefttop.gif'); background-repeat: no-repeat" width="69" height="61">&nbsp; </td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-midtop.gif'); background-repeat: repeat-x" height="61" bground="pod/pod-midtop.gif">&nbsp; </td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-topright.gif'); background-repeat: no-repeat" width="79" height="61">&nbsp; </td></tr></tbody></table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topleft.gif'); background-repeat: no-repeat" width="22" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topmid.gif'); background-repeat: repeat-x" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topright.gif'); background-repeat: no-repeat" width="38" height="16">
+
+<br></td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midleft.gif'); background-repeat: repeat-y" width="22" height="256">&nbsp;</td><td valign="top" height="256">
+
+<h1 style="margin-left: 20px; margin-right: 20px" align="center">BattleZone II 
+
+Strategy Guide</h1>
+
+<div align="center">
+
+	<table border="0" width="90%">
+
+		<tr>
+
+			<td rowspan="2">
+
+			<h3 align="left" style="margin-right: 20px"><i><font face="Tahoma">
+
+			Cheat Codes</font></i></h3>
+
+			<font face="Arial" size="2">
+
+
+
+			<hr align="left" width="95%" style="color: #003399; height: 4px">
+
+			</font>
+
+			<font face="Arial">
+
+
+
+			<p style="margin-right: 30px">
+
+        <font face="arial" size="3">To be able to enter cheat codes you need to 
+
+        bring up the Console View. It is important to note that the game is still 
+
+        continuing while you do this, and you will not be able to retaliate if 
+
+        anyone attacks you. It is therefore advisable to make sure that you are 
+
+        in a semi-safe place before attempting this. <br>
+
+        <br>
+
+        To activate Console View hold down the CTRL key and press the ~ key. Once 
+
+        the console is up you will be able to toggle any of the following cheats 
+
+        by typing in "game.cheat XXXX". Do not include the ""s and replace XXXX 
+
+        with any of the following cheat codes. Once you have hit enter you will 
+
+        get an audio message saying that the cheat has either been activated or 
+
+        deactivated. </font>
+
+			</font>
+
+			<font face="Arial" size="2">
+
+
+
+			<font face="Arial">
+
+
+
+			<font face="arial" size="3"><br>
+
+        &nbsp;</font></p>
+
+			</font><font face="arial">
+
+			<div align="center">
+
+        
+
+        <table width="225" border="0" cellpadding="5">
+
+          <tr bgcolor="#DADADA"> 
+
+            <td bgcolor="#404D50"><font size="2"><b> BZTNT </b></font></td>
+
+            <td bgcolor="#404D50"><font size="2"> Unlimited Ammo </font></td>
+
+          </tr>
+
+          <tr> 
+
+            <td><font size="2"><b> BZBODY </b></font></td>
+
+            <td><font size="2"> Unlimited Armor </font></td>
+
+          </tr>
+
+          <tr bgcolor="#DADADA"> 
+
+            <td bgcolor="#404D50"><font size="2"><b> BZFREE </b></font></td>
+
+            <td bgcolor="#404D50"><font size="2"> Unlimited Scrap </font></td>
+
+          </tr>
+
+          <tr> 
+
+            <td><font size="2"><b> BZVIEW </b></font></td>
+
+            <td><font size="2"> Satellite View </font></td>
+
+          </tr>
+
+          <tr bgcolor="#DADADA"> 
+
+            <td bgcolor="#404D50"><font size="2"><b> BZRADAR </b></font></td>
+
+            <td bgcolor="#404D50"><font size="2"> Map Revealed </font></td>
+
+          </tr>
+
+        </table>
+
+
+
+			</div>
+
+
+
+</font>
+
+			<P style="margin-right: 20px">&nbsp;<P align="center" style="margin-right: 20px">
+
+<img width="350" height="80" border="0" alt="" src="images/bzfiend-350x80-ad.gif"></font></td>
+
+			<td align="center">
+
+			<img border="0" src="images/index.1.jpg" width="133" height="160"></td>
+
+		</tr>
+
+		<tr>
+
+			<td align="center" valign="top">
+
+			<!--webbot bot="Include" U-Include="menu_include.htm" TAG="BODY" startspan -->
+
+<?php include 'menu_include.htm'; ?>
+
+<br>
+
+			<a href="index.html">
+
+			<img border="0" id="img1" src="images/button2E.gif" height="24" width="120" alt="  Introduction" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Introduction" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'images/button2F.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'images/button2E.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'images/button30.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'images/button2F.gif')"></a><br>
+
+			<a href="keyboard.htm">
+
+			<img border="0" id="img2" src="images/button31.gif" height="24" width="120" alt="  Keyboard" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'images/button32.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'images/button31.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'images/button33.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'images/button32.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Keyboard"></a><br>
+
+			<a href="cheats.htm">
+
+			<img border="0" id="img3" src="images/button34.gif" height="24" width="120" alt="  Cheats" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'images/button35.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'images/button34.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'images/button36.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'images/button35.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Cheats"></a><br>
+
+			<a href="structures.htm">
+
+			<img border="0" id="img4" src="images/button3D.gif" height="24" width="120" alt="  Structures" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'images/button3E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'images/button3D.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'images/button3F.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'images/button3E.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Structures"></a><br>
+
+			<a href="scion_units.htm">
+
+			<img border="0" id="img5" src="images/button40.gif" height="24" width="120" alt="  Units" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'images/button41.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'images/button40.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'images/button42.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'images/button41.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Units"></a><br>
+
+			<a href="isdf_weapons.htm">
+
+			<img border="0" id="img6" src="images/button9A.gif" height="24" width="120" alt="  Weaponery" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'images/button9B.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'images/button9A.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'images/button9C.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'images/button9B.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FFFF; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Weaponery"></a><br>
+
+			<img border="0" id="img7" src="images/buttonAC.gif" height="24" width="120" alt="  Building" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'images/buttonAD.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'images/buttonAC.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'images/buttonAE.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'images/buttonAD.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Building"><br>
+
+			<img border="0" id="img8" src="images/buttonAF.gif" height="24" width="120" alt="  Strategies" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'images/buttonB0.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'images/buttonAF.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'images/buttonB1.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'images/buttonB0.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Strategies"><br>
+
+			<img border="0" id="img9" src="images/buttonB2.gif" height="24" width="120" alt="  Resource Mode 1" onmouseover="FP_swapImg(1,0,/*id*/'img9',/*url*/'images/buttonB3.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img9',/*url*/'images/buttonB2.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img9',/*url*/'images/buttonB4.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img9',/*url*/'images/buttonB3.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-size: 8; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Resource Mode 1"><br>
+
+			<img border="0" id="img10" src="images/buttonB8.gif" height="24" width="120" alt="  Mission List" onmouseover="FP_swapImg(1,0,/*id*/'img10',/*url*/'images/buttonB9.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img10',/*url*/'images/buttonB8.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img10',/*url*/'images/buttonBA.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img10',/*url*/'images/buttonB9.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Mission List"><br>
+
+			<img border="0" id="img11" src="images/buttonBB.gif" height="24" width="120" alt="  Walk Through" onmouseover="FP_swapImg(1,0,/*id*/'img11',/*url*/'images/buttonBC.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img11',/*url*/'images/buttonBB.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img11',/*url*/'images/buttonBD.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img11',/*url*/'images/buttonBC.gif')" fp-style="fp-btn: Simple Arrow 4; fp-font-color-normal: #E0E0FF; fp-font-color-hover: #008000; fp-font-color-press: #00FF00; fp-justify-horiz: 0; fp-transparent: 1; fp-orig: 0" fp-title="  Walk Through"><!--webbot bot="Include" i-checksum="47006" endspan --><p>&nbsp;</td>
+
+		</tr>
+
+		</table>
+
+</div>
+
+<p style="margin-left: 20px; margin-right: 20px;" align="center">&nbsp;</p> </td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midright.gif'); background-repeat: repeat-y" width="38" height="256">&nbsp;</td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botleft.gif'); background-repeat: no-repeat" width="22">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botmid.gif'); background-repeat: repeat-x">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botright.gif'); background-repeat: no-repeat" width="38">&nbsp;</td></tr></tbody></table>
+
+<table width="97%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-botleft.gif'); background-repeat: no-repeat" width="72" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-botmid.gif'); background-repeat: repeat-x" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-board-botright.gif'); background-repeat: no-repeat" width="59" height="77">&nbsp;</td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-topleft-40.gif'); background-repeat: no-repeat" width="72" height="42">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-topmid-41.gif'); background-repeat: repeat-x" height="42">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-topright-42.gif'); background-repeat: no-repeat" width="59" height="42">&nbsp;</td></tr></tbody></table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topleft.gif'); background-repeat: no-repeat" width="22" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topmid.gif'); background-repeat: repeat-x" height="16">
+
+<br></td>
+
+	<td style=" background-image: url('images/pod/blue/pod-info-topright.gif'); background-repeat: no-repeat" width="38" height="16">
+
+<br></td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midleft.gif'); background-repeat: repeat-y" width="22" height="256">&nbsp;</td><td valign="top" height="256">
+
+<div align="center">
+
+        	<p>          <!--webbot bot="Include" U-Include="../menu_inc.htm" TAG="BODY" startspan -->
+
+          <table width="100%" border="0">
+
+            <tbody>
+
+              <tr> 
+
+                <td width="10%"> <p style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px"> 
+
+                    <A href="../index.html"> 
+
+					<font color="#FFFFFF"> 
+
+					<IMG style="border-style:solid; border-width:0px; PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; " height=51 alt="" src="images/rec_home_icon_blk.gif" width=49 border=0 ></font></A></p></td>
+
+                <td width="40%"> <p style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px">
+				<font color="#FFFFFF">Home 
+
+                    Page</font></p></td>
+
+                <td width="10%"> <p align="center">
+
+				<A href="../other_bz_sites.htm"> 
+
+                    <font color="#FFFFFF"> 
+
+                    <IMG height=51 alt="" src="images/arm_icon_blk.gif" width=49 border=0></font></A></p></td>
+
+                <td width="40%"> <p style="MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+				<font color="#FFFFFF">&nbsp;Other 
+
+                    BZ Sites</font></p></td>
+
+              </tr>
+
+              <tr> 
+
+                <td width="10%"> <p style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px"> 
+
+                    <a href="/bzcomm/"><font color="#FFFFFF"> 
+
+					</font><font color="#FFFFFF"> 
+
+					<a href="/bzcom/"> 
+
+					<IMG height=51 alt="" src="images/fac_icon_blk.gif" width=49 border=0 ></a></font></a></p></td>
+
+                <td width="40%"> <p style="MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+				<font color="#FFFFFF">&nbsp; 
+
+                    Enter the Forum</font></p></td>
+
+                <td width="10%"> <p style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px"> 
+
+                    <a href="../screenofweek/index.htm"><font color="#FFFFFF">
+
+					<IMG height=51 src="images/bomb_icon_blk.gif" width=49 border=0 ></font></a></p></td>
+
+                <td width="40%"><font color="#FFFFFF">&nbsp; &nbsp; 
+
+                    Screenshot of the Week<br>
+
+                  </font>
+
+                  </td>
+
+              </tr>
+
+              <tr> 
+
+                <td width="10%"><p style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px">
+
+                    <A href="../contact_us.htm"> 
+
+					<font color="#FFFFFF"> 
+
+					<IMG height=49 alt="" src="images/player_icon_blk.gif" width=50 border=0></font></A></p></td>
+
+                <td width="40%"> <p style="MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+				<font color="#FFFFFF">&nbsp; 
+
+                    Contact Us</font></p></td>
+
+                <td width="10%">
+            <p style="margin-left: 20px; margin-right: 20px;">
+            <a href="index.html"><img
+ src="images/fac_icon_blk.gif" alt="" border="0"
+ height="51" width="49"></a></p>
+            </td>
+            <td width="40%">
+            <p>&nbsp;&nbsp;<font color="#FFFFFF"> BattleZone II Strategy Guide</font><br>
+            </p>
+            </td>
+
+
+              </tr>
+
+              <tr> 
+
+                <td colspan="4" align="center">
+                <p style="MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+                &nbsp;</p><center>
+				<p style="MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">                
+                </p></center>
+                </td>
+
+              </tr>
+
+            </tbody>
+
+          </table>
+
+<p><br>
+<br>
+
+&nbsp;</div> </td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-midright.gif'); background-repeat: repeat-y" width="38" height="256">&nbsp;</td></tr><tr>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botleft.gif'); background-repeat: no-repeat" width="22">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botmid.gif'); background-repeat: repeat-x">&nbsp;</td>
+
+		<td style=" background-image: url('images/pod/blue/pod-info-botright.gif'); background-repeat: no-repeat" width="38">&nbsp;</td></tr></tbody></table>
+
+<table width="97%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+	<td style=" background-image: url('images/pod/blue/pod-maxbotleft.gif'); background-repeat: no-repeat" width="72" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-maxbotmid.gif'); background-repeat: repeat-x" height="77">&nbsp;</td>
+
+	<td style=" background-image: url('images/pod/blue/pod-maxbotright.gif'); background-repeat: no-repeat" width="59" height="77">&nbsp;</td></tr></tbody></table>
+
+</body>
+
+</html>
