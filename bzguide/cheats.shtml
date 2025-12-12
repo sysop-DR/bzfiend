@@ -183,7 +183,7 @@ Strategy Guide</h1>
 
 			<!--webbot bot="Include" U-Include="menu_include.htm" TAG="BODY" startspan -->
 
-<?php include 'menu_include.htm'; ?>
+<!--#include virtual="menu_include.htm" -->
 
 <br>
 
