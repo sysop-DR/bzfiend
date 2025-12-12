@@ -183,7 +183,13 @@ Strategy Guide</h1>
 
 			<!--webbot bot="Include" U-Include="menu_include.htm" TAG="BODY" startspan -->
 
-<?php include 'menu_include.htm'; ?>
+<div id="menu"></div>
+<script>
+  fetch('/menu.html')
+    .then(r => r.text())
+    .then(html => { document.getElementById('menu').innerHTML = html; });
+</script>
+
 
 <br>
 
